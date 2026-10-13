@@ -36,3 +36,15 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* ==========================================================================
+   Small adjustments for this site (Publications, Talks and Teaching lists)
+   ========================================================================== */
+
+.page__content h3 {
+  margin-top: 1.6em;
+  margin-bottom: 0.35em;
+}
+
+.page__content h3 + p {
+  margin-top: 0;
+}
