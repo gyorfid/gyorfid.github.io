@@ -41,14 +41,14 @@ Turkish translation by Ecem Arlı (2026): [Harezmce: Çağatay Türkçesi Önces
 
 ## Under review and in preparation
 
+### The Expansion of the Turkic Co-Headed Verb System
+**Győrfi, Dávid** and Oliver Bond. Under review, *Diachronica*.
+
 ### A corpus of Academic Kazakh, and what we learned from it about co-headed verbs
 Sarseke, Gulnar and **Dávid Győrfi**. Under review, *Corpus Linguistics and Linguistic Theory*.
 
 ### Causatives in Kazakh
 **Győrfi, Dávid**. Submitted. Invited chapter in a volume edited by Aysun Kunduracı, to be published by Springer.
-
-### The diachrony of Turkic co-headed verbs: An analogical approach
-**Győrfi, Dávid** and Oliver Bond. In preparation, *Diachronica*.
 
 ### A typology of co-headed verbs
 Bond, Oliver and **Dávid Győrfi**. In preparation, *Language* / *Linguistics*.
