@@ -15,6 +15,10 @@ This text between the arrows is a note to you and does not appear on the website
 
 ## 2026
 
+### Recursion in Kannada co-headed verbs
+*Conference talk* · ICOLSI 48 (Coimbatore, India) · 18-20 November 2026  
+Puttaswamy, Chaithra, Oliver Bond and **Dávid Győrfi** 
+
 ### -(Ы)п шық: Lexicalization as a step in the grammaticalization chain
 *Invited talk* · L.N. Gumilyov Eurasian National University, Astana, Kazakhstan · 6 April 2026
 
