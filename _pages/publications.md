@@ -55,3 +55,6 @@ Bond, Oliver and **Dávid Győrfi**. In preparation, *Language* / *Linguistics*.
 
 ### Recursivity in Kannada co-headed verbs
 Puttaswamy, Chaithra, Oliver Bond and **Dávid Győrfi**. In preparation, *Studies in Language*.
+
+### Lexicalization as an analogical catalyst in the grammaticalization of a Kazakh co-headed verb
+**Győrfi, Dávid** and Oliver Bond. Under review, *Turkic Languages*.
