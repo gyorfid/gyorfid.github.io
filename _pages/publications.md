@@ -33,8 +33,8 @@ Links go to the publisher's page or an open-access version. If you can't access 
 **Győrfi, Dávid** (2014). *Acta Orientalia Academiae Scientiarum Hungaricae* 67(4), 383–406.  
 Turkish translation by Ecem Arlı (2026): [Harezmce: Çağatay Türkçesi Öncesi Kıpçak Tabakasının Tespiti](http://dx.doi.org/10.29228/inture.50). *Journal of International Turkic Research (INTURE)* 5(1), 74–100.
 
-### Awyzeki Soileuw Tilindegi Zhat Elementter (Qazaq Tili Bojyinsha) [Foreign elements in vernacular (in Kazakh)]
-**Győrfi, Dávid** (2014). In *Dayjdzhest Pedagogicheskih Novaciy* [Digest of Pedagogic Novations], 265–268. Almaty: Al-Farabi Kazakh National University.
+### Ауызекі Сөйлеу Тіліндегі Жат Елементтер (Қазақ Тілі Бойынша) [Foreign elements in vernacular (in Kazakh)]
+**Győrfi, Dávid** (2014). In *Дайжетс Педагогических Новации* [Digest of Pedagogic Novations], 265–268. Almaty: Al-Farabi Kazakh National University.
 
 ### Nesimi – Azerbaijan's mystical poet
 **Győrfi, Dávid** (2012). In *Azerbaijan – The Way Young Hungarians See It*, 117–125. Budapest: Embassy of the Republic of Azerbaijan in Hungary.
