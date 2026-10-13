@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a linguist working on the Turkic languages, especially Kazakh. My research centres on the verb: complex predicates, auxiliary verb constructions, the grammaticalization of tense–aspect–modality (TAM) expressions, and verbal morphology more generally. I combine fieldwork and corpus data with typological comparison to understand how complex verbal systems are structured, and how they grow and change over time.
+I am a linguist working on Turkic languages, especially Kazakh. My research centres on the verb: complex predicates, co-headed verbs (such as auxiliary verb constructions), the grammaticalization of co-headed verbs and other tense–aspect–modality (TAM) expressions, and verbal morphology more generally. I combine fieldwork, historical and corpus methodologies with typological comparison to understand how complex verbal systems are structured, and how they grow and change over time.
 
 I am currently a Postdoctoral Researcher in the [Surrey Morphology Group](https://www.smg.surrey.ac.uk/) at the University of Surrey, working on the Leverhulme Trust project [*Analogical growth of grammatical systems*](https://www.smg.surrey.ac.uk/projects/analogical-growth/) (2024–2027), which I co-wrote with Oliver Bond and Erich Round.
 
 My main interests are:
 
-1. **Complex predicates and co-headed verbs.** How languages build a single predicate out of more than one verb. With Oliver Bond, I am developing a typology of *extensive co-headed verb systems*, where verb–verb combinations form a large and productive part of the grammar, comparing Turkic with Dravidian languages such as Kannada.
+1. **Complex predicates and co-headed verbs.** How languages build a single predicate out of more than one verb. I am developing a typology of *extensive co-headed verb systems*, where verb–verb combinations form a large and productive part of the grammar, comparing Turkic with Dravidian languages such as Kannada, as well as northern Australian languages.
 2. **Grammaticalization and tense–aspect–modality.** How lexical verbs turn into auxiliaries and aspect markers, and how these systems expand over time: for example, the many functions of the progressive auxiliary *žat*, and the spread of perfective constructions in the history of Kazakh.
 3. **Turkic verbal morphology and syntax.** The structure of the Kazakh verb and its relatives, from auxiliary selection and nonfinite clauses to causatives, including formal analysis in HPSG. My earlier work was on historical Kipchak Turkic.
 
