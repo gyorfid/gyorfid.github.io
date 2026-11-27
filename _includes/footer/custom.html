@@ -3,4 +3,72 @@
 <!-- Support for MathJax -->
 <script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
+<!-- Click a photo in the page text to see it larger (close with the X, Esc, or a click) -->
+<style>
+  .lightbox { position: fixed; inset: 0; z-index: 9999; display: none; flex-direction: column;
+    align-items: center; justify-content: center; padding: 3.5rem 1rem 1.5rem;
+    background: rgba(0, 0, 0, 0.88); cursor: zoom-out; }
+  .lightbox.is-open { display: flex; }
+  .lightbox img { max-width: 100%; max-height: calc(100vh - 8rem); object-fit: contain;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5); }
+  .lightbox__caption { margin: 0.75rem 0 0; max-width: 50em; color: #eee;
+    font-size: 0.9rem; text-align: center; }
+  .lightbox__close { position: absolute; top: 0.5rem; right: 0.75rem; padding: 0.25rem 0.6rem;
+    border: 0; background: none; color: #fff; font-size: 2.5rem; line-height: 1; cursor: pointer; }
+</style>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var photos = Array.prototype.filter.call(
+      document.querySelectorAll(".page__content img"),
+      function (img) { return !img.closest("a"); }
+    );
+    if (!photos.length) return;
+
+    var box = document.createElement("div");
+    box.className = "lightbox";
+    box.setAttribute("role", "dialog");
+    box.setAttribute("aria-modal", "true");
+    box.setAttribute("aria-label", "Enlarged photo");
+    box.innerHTML = '<button type="button" class="lightbox__close" aria-label="Close">&times;</button>' +
+                    '<img alt=""><p class="lightbox__caption"></p>';
+    document.body.appendChild(box);
+
+    var bigImg = box.querySelector("img");
+    var caption = box.querySelector(".lightbox__caption");
+    var closeButton = box.querySelector(".lightbox__close");
+    var lastPhoto = null;
+
+    function openBox(img) {
+      bigImg.src = img.currentSrc || img.src;
+      bigImg.alt = img.alt;
+      caption.textContent = img.alt;
+      caption.style.display = img.alt ? "" : "none";
+      box.classList.add("is-open");
+      document.body.style.overflow = "hidden";
+      lastPhoto = img;
+      closeButton.focus();
+    }
+    function closeBox() {
+      box.classList.remove("is-open");
+      document.body.style.overflow = "";
+      if (lastPhoto) lastPhoto.focus();
+    }
+
+    photos.forEach(function (img) {
+      img.style.cursor = "zoom-in";
+      img.title = "Click to enlarge";
+      img.tabIndex = 0;
+      img.setAttribute("role", "button");
+      img.addEventListener("click", function () { openBox(img); });
+      img.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openBox(img); }
+      });
+    });
+    box.addEventListener("click", closeBox);
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && box.classList.contains("is-open")) closeBox();
+    });
+  });
+</script>
+
 <!-- end custom footer snippets -->
