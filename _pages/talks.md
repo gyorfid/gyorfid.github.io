@@ -15,6 +15,9 @@ This text between the arrows is a note to you and does not appear on the website
 
 ## 2026
 
+### Invitation as guest researcher to CIIL
+*Collaboration and fieldwork* ·	As part of the collaboration with **Prof. Chaithra Puttaswamy** (IIT Kanpur) and our join work on Dravidian languages, I was invited to the *Janjatiya Bhasha Utsav* (Celebrating India's Linguistic Heritage) by Director of the Central Institute of Indian Languages (CIIL), **Prof. Basavaraja Kodagunti** (November 18–20, 2026, Mysuru, India)
+
 ### Recursion in Kannada co-headed verbs
 *Conference talk* · ICOLSI 48 (Coimbatore, India) · 18-20 November 2026  
 Puttaswamy, Chaithra, Oliver Bond and **Dávid Győrfi** 
